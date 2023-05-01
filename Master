@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Lengua Franca Trivia Board Game</title>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+	<header>
+		<h1>Lengua Franca Trivia Board Game</h1>
+	</header>
+	<main>
+		<section>
+			<h2>English</h2>
+			<div class="question">Question 1</div>
+			<div class="question">Question 2</div>
+			<div class="question">Question 3</div>
+			<div class="question">Question 4</div>
+			<div class="question">Question 5</div>
+			<div class="pronunciation">Pronunciation Activity 1</div>
+			<div class="pronunciation">Pronunciation Activity 2</div>
+			<div class="city-recognition">City Recognition Activity</div>
+			<div class="translation">Translation Activity 1</div>
+			<div class="translation">Translation Activity 2</div>
+		</section>
+		<section>
+			<h2>Español</h2>
+			<div class="question">Question 1</div>
+			<div class="question">Question 2</div>
+			<div class="question">Question 3</div>
+			<div class="question">Question 4</div>
+			<div class="question">Question 5</div>
+			<div class="pronunciation">Actividad de Pronunciación 1</div>
+			<div class="pronunciation">Actividad de Pronunciación 2</div>
+			<div class="city-recognition">Actividad de Reconocimiento de Ciudades</div>
+			<div class="translation">Actividad de Traducción 1</div>
+			<div class="translation">Actividad de Traducción 2</div>
+		</section>
+		<section>
+			<h2>Français</h2>
+			<div class="question">Question 1</div>
+			<div class="question">Question 2</div>
+			<div class="question">Question 3</div>
+			<div class="question">Question 4</div>
+			<div class="question">Question 5</div>
+			<div class="pronunciation">Activité de Prononciation 1</div>
+			<div class="pronunciation">Activité de Prononciation 2</div>
+			<div class="city-recognition">Activité de Reconnaissance de Ville</div>
+			<div class="translation">Activité de Traduction 1</div>
+			<div class="translation">Activité de Traduction 2</div>
+		</section>
+		<section>
+			<h2>Português</h2>
+			<div class="question">Question 1</div>
+			<div class="question">Question 2</div>
+			<div class="question">Question 3</div>
+			<div class="question">Question 4</div>
+			<div class="question">Question 5</div>
+			<div class="pronunciation">Atividade de Pronúncia 1</div>
+			<div class="pronunciation">Atividade de Pronúncia 2</div>
+			<div class="city-recognition">Atividade de Reconhecimento de Cidade</div>
+			<div class="translation">Atividade de Tradução 1</div>
+      <div class="translation">Atividade de Tradução 1</div>
+      </section>
+      <section>
+	<h2>Italiano</h2>
+	<div class="question">Domanda 1</div>
+	<div class="question">Domanda 2</div>
+	<div class="question">Domanda 3</div>
+	<div class="question">Domanda 4</div>
+	<div class="question">Domanda 5</div>
+	<div class="pronunciation">Attività di Pronuncia 1</div>
+	<div class="pronunciation">Attività di Pronuncia 2</div>
+	<div class="city-recognition">Attività di Riconoscimento Città</div>
+	<div class="translation">Attività di Traduzione 1</div>
+	<div class="translation">Attività di Traduzione 2</div>
+  </section>
+	</main>
+  </html>
