@@ -27,7 +27,6 @@ img {
 /* Header Styles */
 header {
   background-color: #333;
-  color: #fff;
   padding: 20px;
 }
 
@@ -46,22 +45,18 @@ section {
 }
 
 .pronunciation, .city-recognition, .translation {
-  background-color: #eee;
   font-weight: bold;
   margin-bottom: 10px;
   padding: 5px;
 }
 
 .pronunciation {
-  color: #f00;
 }
 
 .city-recognition {
-  color: #00f;
 }
 
 .translation {
-  color: #0f0;
 }
 
 .City {
@@ -75,8 +70,6 @@ section {
 
 /* Footer Styles */
 footer {
-  background-color: #333;
-  color: #fff;
   padding: 20px;
   text-align: center;
 }
