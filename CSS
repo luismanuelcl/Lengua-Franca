@@ -1,74 +1,82 @@
+/* Global Styles */
 body {
+  font-family: Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
   margin: 0;
   padding: 0;
-  font-family: Arial, sans-serif;
 }
 
+h1, h2 {
+  color: #333;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
+
+/* Header Styles */
 header {
   background-color: #333;
   color: #fff;
   padding: 20px;
 }
 
-h1 {
-  font-size: 48px;
-  margin: 0;
-}
-
-nav {
-  background-color: #ccc;
-  padding: 10px;
-}
-
-nav ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-
-nav li {
-  display: inline-block;
-  margin-right: 20px;
-}
-
-nav a {
-  color: #333;
-  text-decoration: none;
-  font-size: 20px;
-  padding: 10px;
-  border-radius: 5px;
-  transition: background-color 0.3s ease-in-out;
-}
-
-nav a:hover {
-  background-color: #333;
-  color: #fff;
+/* Main Styles */
+main {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
 }
 
 section {
-  margin: 20px 0;
+  margin: 20px;
+  max-width: 400px;
+  text-align: center;
 }
 
-h2 {
-  font-size: 24px;
+.pronunciation, .city-recognition, .translation {
+  background-color: #eee;
+  font-weight: bold;
   margin-bottom: 10px;
-}
-
-.question {
-  margin: 10px 0;
+  padding: 5px;
 }
 
 .pronunciation {
-  margin: 10px 0;
-  font-style: italic;
+  color: #f00;
 }
 
 .city-recognition {
-  margin: 10px 0;
-  font-style: italic;
+  color: #00f;
 }
 
 .translation {
-  margin: 10px 0;
-  font-style: italic;
+  color: #0f0;
+}
+
+.City {
+  margin: 10px auto;
+  max-width: 100%;
+}
+
+.City img {
+  border: 1px solid #333;
+}
+
+/* Footer Styles */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
 }
