@@ -1,11 +1,11 @@
 body {
-  background-color: #E6F2F5;
+  background-color: #81BEF7;
   font-family: Arial, sans-serif;
-  color: #000000;
+  color: #071914;
 }
 
 header {
-  background-color: #000000;
+  background-color: #EFFBFB;
   padding: 20px;
 }
 
@@ -17,7 +17,7 @@ h1 {
 }
 
 section {
-  background-color: #FFFFE0;
+  background-color: #E6F2F5;
   padding: 20px;
   margin-bottom: 20px;
 }
