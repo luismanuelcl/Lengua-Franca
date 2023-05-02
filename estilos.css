@@ -1,1 +1,64 @@
+body {
+  background-color: #F8D7DA;
+  font-family: 'Comic Sans MS', sans-serif;
+}
+
+header {
+  background-color: #FFC107;
+  padding: 20px;
+}
+
+h1 {
+  color: #F44336;
+  font-size: 48px;
+  margin: 0;
+}
+
+section {
+  background-color: #FFF5E5;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  color: #4CAF50;
+  font-size: 24px;
+  margin: 0;
+}
+
+a {
+  color: #4CAF50;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #F44336;
+}
+
+figure {
+  margin: 0;
+}
+
+figcaption {
+  font-size: 14px;
+  text-align: center;
+}
+
+.City img {
+  width: 100%;
+  height: auto;
+  margin: 10px 0;
+}
+
+.pronunciation, .translation, .city-recognition {
+  background-color: #FFFDE7;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.answer {
+  margin-top: 5px;
+  font-size: 16px;
+  text-align: center;
+}
 
