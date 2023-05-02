@@ -1,23 +1,23 @@
 body {
-  background-color: #81BEF7;
+  background-color: #FFFFFF;
   font-family: Arial, sans-serif;
   color: #071914;
 }
 
 header {
-  background-color: #EFFBFB;
+  background-color: #FFFFFF;
   padding: 20px;
 }
 
 h1 {
-  color: #1E90FF;
+  color: #000000;
   font-size: 48px;
   margin: 0;
   background-color: #FFFFFF;
 }
 
 section {
-  background-color: #E6F2F5;
+  background-color: #FFFFFF;
   padding: 20px;
   margin-bottom: 20px;
 }
@@ -34,7 +34,7 @@ a {
 }
 
 a:hover {
-  color: #1E90FF;
+  color: #2E9AFE;
 }
 
 figure {
@@ -47,13 +47,13 @@ figcaption {
 }
 
 .City img {
-  width: 65%;
+  width: 60%;
   height: auto;
   margin: 10px 0;
 }
 
 .pronunciation, .translation, .city-recognition {
-  background-color: #B0E0E6;
+  background-color: #FFFFFF;
   padding: 10px;
   margin-bottom: 10px;
 }
